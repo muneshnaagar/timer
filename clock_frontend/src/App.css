@@ -1,0 +1,27 @@
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.flex-item {
+  flex: 1; /* Each flex item will take equal space */
+  padding: 10px;
+  border: 1px solid #000;
+  margin: 5px;
+}
+
+.add-space {
+  /* margin: 4px; */
+  margin-top: 10px;
+}
