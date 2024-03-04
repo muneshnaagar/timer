@@ -10,9 +10,6 @@ React Clock
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 
@@ -29,19 +26,10 @@ Instructions for setting up the project on a local machine.
 
 ## Run the project
 
-1.Go to clock_backend and run following command to start the server/backend:
+1. Go to clock_backend and run following command to start the server/backend:
   - npm run start
-2.Go to clock_frontend and run following command. This will start the frontend application:
+2. Go to clock_frontend and run following command. This will start the frontend application:
   - npm start
-
-## Contributing
-
-Information for contributors on how to contribute to the project. Include guidelines for pull requests, coding standards, and any other relevant information.
-
-## License
-
-Specify the project's license and provide a link to the license file if applicable.
-
-## Contact
-
-Provide contact information for the project maintainer or team. This could include email addresses, social media profiles, or links to a contact form.
+3. Start using the Timer by adding a new timer.
+4. Select Timezone using Timezone selector and it will display the current internet time for the selected timezone.
+4. The History module will display the previous timers' details.
